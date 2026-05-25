@@ -21,6 +21,7 @@ I'm a Full Stack Developer passionate about building web applications with React
 
 - **Bolnee Chatbot** — AI chatbot platform running models in-browser with Transformers.js ([repo](https://github.com/rohangaikwad4/Bolnee-Chatbot-Project))
 - **Trello Clone** — Kanban board app with JWT auth, role-based access, MongoDB ([repo](https://github.com/rohangaikwad4/Trello-MERN-project))
+- **Portfolio dApp** — Personal portfolio + Solana wallet dApp with Bun and React ([repo](https://github.com/rohangaikwad4/portfolio-dapp))
 - **NotesApp** — Note-taking app with Express + JWT authentication ([repo](https://github.com/rohangaikwad4/NotesApp))
 
 ## Connect
